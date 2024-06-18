@@ -17,10 +17,10 @@ Please note that you may need to create a free Kaggle account to access the data
 
 ### Task List:
 
-- [ ] Import libraries and load data
-- [ ] Clean and preprocess data
-- [ ] Conduct exploratory data analysis
-- [ ] Draw conclusions and insights
+- [x] Import libraries and load data
+- [x] Clean and preprocess data
+- [x] Conduct exploratory data analysis
+- [x] Draw conclusions and insights
 
 
 
